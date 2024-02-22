@@ -1,16 +1,54 @@
-### Hi there 👋
+## Filat Astakhov 
+### About
+Frontend developer from Russia. 
 
-<!--
-**ph1l74/ph1l74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stack: 
+- JavaScript <img height="20" src="https://skillicons.dev/icons?i=js" />
+- TypeScript <img height="20" src="https://skillicons.dev/icons?i=typescript" />
+- React <img height="20" src="https://skillicons.dev/icons?i=react" />
+- Redux <img height="20" src="https://skillicons.dev/icons?i=redux" />
+- NodeJS <img height="20" src="https://skillicons.dev/icons?i=nodejs" />
 
-Here are some ideas to get you started:
+- Others: 
+    - <p align="left">CSS:  <a href="https://skillicons.dev">
+      <img height="20" src="https://skillicons.dev/icons?i=css,scss,less," />
+    </a></p>
+    - <p align="left">UI:  <a href="https://skillicons.dev">
+      <img height="20" src="https://skillicons.dev/icons?i=flutter,materialui,tailwind," />
+    </a></p>
+    - <p align="left">SSR:  <a href="https://skillicons.dev">
+      <img height="20" src="https://skillicons.dev/icons?i=next,deno," />
+    </a></p>
+    - <p align="left">Builders:  <a href="https://skillicons.dev">
+      <img height="20" src="https://skillicons.dev/icons?i=vite,bun,gulp,webpack" />
+    </a></p>
+    - <p align="left">Databases:  <a href="https://skillicons.dev">
+      <img height="20" src="https://skillicons.dev/icons?i=postgres,firebase,prisma,mongodb,mysql" />
+    </a></p>
+    - <p align="left">Deployment:  <a href="https://skillicons.dev">
+      <img height="20" src="https://skillicons.dev/icons?i=docker,netlify,vercel" />
+    </a></p>
+    - <p align="left">Version control:  <a href="https://skillicons.dev">
+      <img height="20" src="https://skillicons.dev/icons?i=git,github,gitlab," />
+    </a></p>
+   - <p align="left">Tools:  <a href="https://skillicons.dev">
+      <img height="20" src="https://skillicons.dev/icons?i=vscode,figma,notion,ps" />
+    </a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Career
+
+  #### 2020 - NOW
+  Deloitte / DRT Tech: **Frontend-developer**: 
+  - SPA & Microsoft Sharepoint Features (*React, Redux, Sharepoint*)
+  - Legacy Projects (*Vanilla JS, Angular*)
+  #### 2017-2020
+  The Central Bank of the Russian Federation - **Fullstack-developer** / **Frontend-developer**:
+  - Microsoft Sharepoint Features (React, JavaScript)
+  - SPAs (React, MobX, TypeScript)
+  - CRM & Consulting system (Java, DojoJS) 
+  #### 2014 - 2017
+  TELESEN - **Fullstack-developer** / **Designeer**:
+  - Conrol System Programming (Crestron, Extron, C, JavaScript)
+  - UI/UX Design for Control Systems
+
+<!-- ### Pet projects: -->
