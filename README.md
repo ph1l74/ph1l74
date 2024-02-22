@@ -1,6 +1,6 @@
 ## Filat Astakhov 
 ### About
-Frontend developer from Russia. 
+Frontend developer from Russia. In love with music, cinema and photography. Interested in intellectual games.
 
 ### Stack: 
 - JavaScript <img height="20" src="https://skillicons.dev/icons?i=js" />
