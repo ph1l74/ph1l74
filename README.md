@@ -6,7 +6,9 @@ Frontend developer from Russia. In love with music, cinema and photography. Inte
 - JavaScript <img height="20" src="https://skillicons.dev/icons?i=js" /> / TypeScript <img height="20" src="https://skillicons.dev/icons?i=typescript" />
 - Next <img height="20" src="https://skillicons.dev/icons?i=next" />
 - React <img height="20" src="https://skillicons.dev/icons?i=react" />
+- Solid <img height="20" src="https://skillicons.dev/icons?i=solid" />
 - Redux <img height="20" src="https://skillicons.dev/icons?i=redux" />
+- Prisma ORM <img height="20" src="https://skillicons.dev/icons?i=prisma" />
 - NodeJS <img height="20" src="https://skillicons.dev/icons?i=nodejs" />
 
 - Others: 
@@ -39,6 +41,7 @@ Frontend developer from Russia. In love with music, cinema and photography. Inte
 
   #### 2020 - NOW
   Deloitte / DRT Tech: **Frontend-developer**: 
+  - Mobile Smartapps (*React, SolidJS*)
   - SPA & Microsoft Sharepoint Features (*React, Redux, Sharepoint*)
   - Legacy Projects (*Vanilla JS, Angular*)
   #### 2017-2020
