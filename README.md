@@ -7,7 +7,7 @@ Frontend developer from Russia. In love with music, cinema and photography. Inte
 
 ### Others:
 
-### Frontend-frameworks:
+#### Frontend-frameworks:
 <img alt="SolidJS" src="https://img.shields.io/badge/-SolidJS-2C4F7C?style=flat-square&logo=solid&logoColor=white" />
 
 #### CSS:
