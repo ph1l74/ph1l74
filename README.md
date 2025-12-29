@@ -3,8 +3,8 @@
 Frontend developer from Russia. In love with music, cinema and photography. Interested in intellectual games.
 
 ### Stack: 
-- JavaScript <img height="20" src="https://skillicons.dev/icons?i=js" />
-- TypeScript <img height="20" src="https://skillicons.dev/icons?i=typescript" />
+- JavaScript <img height="20" src="https://skillicons.dev/icons?i=js" /> / TypeScript <img height="20" src="https://skillicons.dev/icons?i=typescript" />
+- Next <img height="20" src="https://skillicons.dev/icons?i=next" />
 - React <img height="20" src="https://skillicons.dev/icons?i=react" />
 - Redux <img height="20" src="https://skillicons.dev/icons?i=redux" />
 - NodeJS <img height="20" src="https://skillicons.dev/icons?i=nodejs" />
